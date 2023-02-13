@@ -1,0 +1,243 @@
+Cruise Ship:
+
+Cabin 1:
+
+Passenger 1: Empty
+
+Passenger 2: Empty
+
+Passenger 3: Empty
+
+
+Cabin 2:
+
+Passenger 1: Empty
+
+Passenger 2: Empty
+
+Passenger 3: Empty
+
+
+Cabin 3:
+
+Passenger 1: Empty
+
+Passenger 2: Empty
+
+Passenger 3: Empty
+
+
+Cabin 4:
+
+Passenger 1: Empty
+
+Passenger 2: Empty
+
+Passenger 3: Empty
+
+
+Cabin 5:
+
+Passenger 1: Empty
+
+Passenger 2: Empty
+
+Passenger 3: Empty
+
+
+Cabin 6:
+
+Passenger 1: Empty
+
+Passenger 2: Empty
+
+Passenger 3: Empty
+
+
+Cabin 7:
+
+Passenger 1: Empty
+
+Passenger 2: Empty
+
+Passenger 3: Empty
+
+
+Cabin 8:
+
+Passenger 1: Empty
+
+Passenger 2: Empty
+
+Passenger 3: Empty
+
+
+Cabin 9:
+
+Passenger 1: Empty
+
+Passenger 2: Empty
+
+Passenger 3: Empty
+
+
+Cabin 10:
+
+Passenger 1: Empty
+
+Passenger 2: Empty
+
+Passenger 3: Empty
+
+
+Cabin 11:
+
+Passenger 1: Empty
+
+Passenger 2: Empty
+
+Passenger 3: Empty
+
+
+Cabin 12:
+
+Passenger 1: YAHIYA AHMED
+Expenses: 50
+
+Passenger 2: Y Y
+Expenses: 50
+
+Passenger 3: Y Y
+Expenses: 50
+
+
+Empty cabins:
+
+Passenger 1 in cabin 1 is empty
+
+Passenger 2 in cabin 1 is empty
+
+Passenger 3 in cabin 1 is empty
+
+Passenger 1 in cabin 2 is empty
+
+Passenger 2 in cabin 2 is empty
+
+Passenger 3 in cabin 2 is empty
+
+Passenger 1 in cabin 3 is empty
+
+Passenger 2 in cabin 3 is empty
+
+Passenger 3 in cabin 3 is empty
+
+Passenger 1 in cabin 4 is empty
+
+Passenger 2 in cabin 4 is empty
+
+Passenger 3 in cabin 4 is empty
+
+Passenger 1 in cabin 5 is empty
+
+Passenger 2 in cabin 5 is empty
+
+Passenger 3 in cabin 5 is empty
+
+Passenger 1 in cabin 6 is empty
+
+Passenger 2 in cabin 6 is empty
+
+Passenger 3 in cabin 6 is empty
+
+Passenger 1 in cabin 7 is empty
+
+Passenger 2 in cabin 7 is empty
+
+Passenger 3 in cabin 7 is empty
+
+Passenger 1 in cabin 8 is empty
+
+Passenger 2 in cabin 8 is empty
+
+Passenger 3 in cabin 8 is empty
+
+Passenger 1 in cabin 9 is empty
+
+Passenger 2 in cabin 9 is empty
+
+Passenger 3 in cabin 9 is empty
+
+Passenger 1 in cabin 10 is empty
+
+Passenger 2 in cabin 10 is empty
+
+Passenger 3 in cabin 10 is empty
+
+Passenger 1 in cabin 11 is empty
+
+Passenger 2 in cabin 11 is empty
+
+Passenger 3 in cabin 11 is empty
+
+Cabin 1 expenses:
+
+Total = 0
+
+
+Cabin 2 expenses:
+
+Total = 0
+
+
+Cabin 3 expenses:
+
+Total = 0
+
+
+Cabin 4 expenses:
+
+Total = 0
+
+
+Cabin 5 expenses:
+
+Total = 0
+
+
+Cabin 6 expenses:
+
+Total = 0
+
+
+Cabin 7 expenses:
+
+Total = 0
+
+
+Cabin 8 expenses:
+
+Total = 0
+
+
+Cabin 9 expenses:
+
+Total = 0
+
+
+Cabin 10 expenses:
+
+Total = 0
+
+
+Cabin 11 expenses:
+
+Total = 0
+
+
+Cabin 12 expenses:
+
+Passenger 1: 50
+Passenger 2: 50
+Passenger 3: 50
+Total = 150
+
